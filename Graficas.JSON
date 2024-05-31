@@ -1,0 +1,64 @@
+
+    [
+        {
+            "codigo" : "1",
+            "nombre":"Nvidia RTX 2080 Ti",
+            "annioLanzamiento":"2018",
+            "imagen": "https://m.media-amazon.com/images/I/8188NNMGDOL.jpg"
+        },
+        {
+            "codigo" : "2",
+           "nombre":"Nvidia GTX 1650 Super",
+            "annioLanzamiento":"2019",
+            "imagen": "https://www.elkjop.no/image/dv_web_D180001002470504/181985/msi-geforce-gtx-1650-super-aero-itx-oc-nvidia-4-gb-gddr6.jpg"
+        },
+        {
+            "codigo" : "3",
+            "nombre":"Nvidia GTX 1660 Ti",
+            "annioLanzamiento":"2019",
+            "imagen": "https://m.media-amazon.com/images/I/81QnPIBbZML.jpg"
+        },
+        {
+            "codigo" : "4",
+           "nombre":"Nvidia GTX 1050 Ti",
+            "annioLanzamiento":"2016",
+            "imagen": "https://www.ubuy.cr/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzFZRFhGaEl1V0wuX0FDX1NMMTUwMF8uanBn.jpg"
+        },
+        {
+            "codigo" : "5",
+            "nombre":"Nvidia GTX 1070",
+            "annioLanzamiento":"2017",
+            "imagen": "https://www.profesionalreview.com/wp-content/uploads/2017/10/GeForce-GTX-1070-Ti-3.jpg"
+        },
+         {
+            "codigo" : "6",
+            "nombre":"Nvidia RTX 3070",
+            "annioLanzamiento":"2021",
+            "imagen": "https://www.cqnetcr.com/110209-large_default/tarjeta-grafica-geforce-rtx-3070-gaming-oc-8g.jpg" 
+        },
+        {
+            "codigo" : "7",
+            "nombre":"AMD Radeon RX 580",
+            "annioLanzamiento":"2017",
+            "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/28/287880/sapphire-pulse-amd-radeon-rx-580-8gb-gddr5-mejor-precio.jpg" 
+        },
+        {
+            "codigo" : "8",
+            "nombre":"AMD Radeon 6600 XT",
+            "annioLanzamiento":"2021",
+            "imagen": "https://todogeek.cl/cdn/shop/products/11309_01_RX6600XT_NITRO_Lite_Box_Card_02.jpg?v=1658706092" 
+        },
+       {
+            "codigo" : "9",
+            "nombre":"AMD Radeon 7800 XT",
+            "annioLanzamiento":"2023",
+            "imagen": "https://www.techpowerup.com/img/so4lh7CLA0Zf37DZ.jpg" 
+        },
+        {
+            "codigo" : "10",
+            "nombre":"AMD Redeon RX 570",
+            "annioLanzamiento":"2016",
+            "imagen": "https://media.ldlc.com/r1600/ld/products/00/03/79/86/LD0003798661_2.jpg" 
+        }
+    
+]
